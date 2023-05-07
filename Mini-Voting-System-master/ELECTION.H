@@ -1,6 +1,7 @@
 #include<stdio.h>
 int Amoylig=0, BNP=0, NP=0, PP=0;
 void electionResult()
+
 {
     int wonByVote;
     if (Amoylig > BNP && Amoylig > NP && Amoylig > PP)

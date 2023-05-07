@@ -72,6 +72,7 @@ void calculateVote(int vote)
         break;
     }
 }
+
 void main()
 {
     int choose;
